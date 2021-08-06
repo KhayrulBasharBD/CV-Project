@@ -1,0 +1,161 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+body{
+	background-color: #eee;
+
+}
+.container{
+	max-width: 1000px;
+	background-color: #e4f9fe;
+	margin: 0 auto;
+	padding: 10px;
+
+}
+header{
+
+}
+.profile-pic{
+	width: 100px;
+	height: 100px;
+	border: 3px solid white;
+	border-radius: 50%;
+	float: left;
+}
+.header-bio{
+	
+	float: left;
+	padding: 30px;
+}
+h1{
+	color: #11999e;
+	text-decoration: underline;
+
+}
+h2{
+	font-family: cursive;
+	font-weight: bold;
+}
+
+h3{
+
+	font-weight: bold;
+	word-spacing: 4px;
+	letter-spacing: .5px;
+
+}
+.header-contact{
+	float: right;
+	padding: 30px;
+}
+.header-contact a{
+	text-decoration: none;
+	color: teal;
+	font-weight: bold;
+}
+.header-contact a:hover{
+	text-decoration: underline;
+	color: tomato;
+}
+.div-clear{
+	clear: both;
+
+}
+hr{
+	border: 3px solid black ;
+	margin: 10px auto;
+	width: 100%;
+	border-bottom: none;
+
+}
+#content{
+
+}
+.left-info{
+	width: 35%;
+	float: left;
+	margin: 0px auto;
+
+}
+.right-info{
+	width: 65%;
+	float: left;
+	margin: 0px auto;
+}
+.personal-hr {
+	border: 1px solid black;
+	border-bottom: none;
+
+}
+.left-add{
+	width: 40%;
+	float: left;
+	margin: 0px auto;
+}
+#diploma{
+	margin: 0 auto;
+	padding-top: 15px;
+}
+#ssc{
+	margin:  0 auto;
+	padding-top: 15px;
+}
+#personal-info{
+	margin: 0 auto;
+	padding-top: 5px;
+}
+
+.left-temp{
+	float: left;
+	width: 30%;
+
+}
+
+	
+
+.right-temp{
+	float: right;
+	width: 60%;
+
+}
+.left-temp ol  {
+	margin-left: 15px;
+
+}
+.right-temp ol{
+	margin-left: 15px;
+}
+
+.bottom{
+	height: 100px;
+	text-align: center;
+	padding: 2px;
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+}
+.bottom img{
+	padding-left: 50px;
+	padding-right: 55px;
+	padding-top: 5px;
+
+}
+.fb{
+	width: 50px;
+	height: 50px;
+
+}
+.youtube{
+	width: 45px;
+	height: 45px;
+	
+}
+
+.google{
+	width: px;
+	height: 45px;
+	
+}
